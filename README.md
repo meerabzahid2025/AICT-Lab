@@ -5,5 +5,5 @@ This repository contains weekly lab tasks and projects for AICT course.
 - Week-02: EXCEL
 - Week-03: POWERPOINT
 - MidProject: MID-TERM PROJECT FILES
-- FinalProject: FINLA-TERM PROJECT FILES
+- FinalProject: FINAL-TERM PROJECT FILES
 
